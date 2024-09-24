@@ -1,4 +1,4 @@
-//CRIAR CLASSE PESSOA
+
 class Pessoa{
     constructor(nome, dt_nascimento){
         this.nome = nome;
